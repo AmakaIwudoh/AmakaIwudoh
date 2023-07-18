@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋 My name is Ukamaka Iwudoh
 
-<!--
-**AmakaIwudoh/AmakaIwudoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dynamic Software Quality Management Professional across the Financial and Information Technology Sectors. 
 
-Here are some ideas to get you started:
+An astute Test & Quality Assurance Lead, adept in quality assurance activities including Audits, recommending and implementing corrective actions, providing accurate documentation of statistical reports and ensuring overall compliance; proven track record of strategic Quality Assurance vision, quick delivery, and demonstrated capability to inspire/mentor Quality Assurance teams to implement latest Quality Assurance programs for maintaining industrial quality standards; possesses effective interpersonal, oral and written communication skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently working on Enterprise Banking Project
+- 🌱 I’m currently learning Azure DevOps
+- 👯 I’m looking to collaborate on Software Quality Management
+- 📫 How to reach me: Ukamaka.Iwudoh@outlook.com
+
 -->
